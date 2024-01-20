@@ -1,0 +1,24 @@
+{
+	"BUILD_DIR" : "C:/Users/crayn/OneDrive/Documents/build-Mazajme-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/Mazajme_autogen",
+	"CMAKE_BINARY_DIR" : "C:/Users/crayn/OneDrive/Documents/build-Mazajme-Desktop_Qt_6_6_1_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "C:/Users/crayn/OneDrive/Documents/build-Mazajme-Desktop_Qt_6_6_1_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "C:/Users/crayn/OneDrive/Documents/Mazajme",
+	"CMAKE_SOURCE_DIR" : "C:/Users/crayn/OneDrive/Documents/Mazajme",
+	"INCLUDE_DIR" : "C:/Users/crayn/OneDrive/Documents/build-Mazajme-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/Mazajme_autogen/include",
+	"INPUTS" : 
+	[
+		"C:/Users/crayn/Downloads/unnamed (1).jpg",
+		"C:/Users/crayn/Downloads/a_dark_blue_gradient_background_with_a_y.png",
+		"C:/Users/crayn/OneDrive/Documents/Pictures/Picture1.jpg"
+	],
+	"LOCK_FILE" : "C:/Users/crayn/OneDrive/Documents/build-Mazajme-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/CMakeFiles/Mazajme_autogen.dir/AutoRcc_Resource_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "Resource" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_Resource.cpp",
+	"RCC_EXECUTABLE" : "C:/Qt/6.6.1/mingw_64/./bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "C:/Users/crayn/OneDrive/Documents/build-Mazajme-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/CMakeFiles/Mazajme_autogen.dir/AutoRcc_Resource_EWIEGA46WW_Used.txt",
+	"SOURCE" : "C:/Users/crayn/OneDrive/Documents/Mazajme/Resource.qrc",
+	"VERBOSITY" : 0
+}
